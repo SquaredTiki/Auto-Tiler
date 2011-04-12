@@ -1,0 +1,188 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* AutoTilerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 554}}";
+			sepNavSelRange = "{620, 34}";
+			sepNavVisRange = "{0, 660}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AutoTilerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1014}}";
+			sepNavSelRange = "{2134, 0}";
+			sepNavVisRange = "{1628, 704}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AFC82AE513311A86006E8FCC /* AutoTiler */;
+		activeTarget = 8D1107260486CEB800E47090 /* AutoTiler */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AutoTiler */,
+		);
+		codeSenseManager = AFC82AEF13311AB4006E8FCC /* Code sense */;
+		executables = (
+			AFC82AE513311A86006E8FCC /* AutoTiler */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					849,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322040598;
+			PBXWorkspaceStateSaveDate = 322040598;
+		};
+		perUserProjectItems = {
+			AFA821201331F31A00B483CB /* PBXTextBookmark */ = AFA821201331F31A00B483CB /* PBXTextBookmark */;
+			AFC82B05133120DC006E8FCC = AFC82B05133120DC006E8FCC /* PBXTextBookmark */;
+			AFC82B7B133129F9006E8FCC = AFC82B7B133129F9006E8FCC /* PBXTextBookmark */;
+			AFC82BC6133135CB006E8FCC = AFC82BC6133135CB006E8FCC /* PBXTextBookmark */;
+			AFC82BD913313658006E8FCC = AFC82BD913313658006E8FCC /* PBXTextBookmark */;
+			AFC82BE5133149BB006E8FCC = AFC82BE5133149BB006E8FCC /* PBXTextBookmark */;
+		};
+		sourceControlManager = AFC82AEE13311AB4006E8FCC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* AutoTiler */ = {
+		activeExec = 0;
+		executables = (
+			AFC82AE513311A86006E8FCC /* AutoTiler */,
+		);
+	};
+	AFA821201331F31A00B483CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AFC82AF613311C25006E8FCC /* AutoTilerPreviewView.m */;
+		name = "AutoTilerPreviewView.m: 25";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 357;
+	};
+	AFC82AE513311A86006E8FCC /* AutoTiler */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AutoTiler;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	AFC82AEE13311AB4006E8FCC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AFC82AEF13311AB4006E8FCC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AFC82AF513311C24006E8FCC /* AutoTilerPreviewView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 378}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 314}";
+		};
+	};
+	AFC82AF613311C25006E8FCC /* AutoTilerPreviewView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 637}}";
+			sepNavSelRange = "{548, 0}";
+			sepNavVisRange = "{357, 740}";
+		};
+	};
+	AFC82B05133120DC006E8FCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AFC82AF513311C24006E8FCC /* AutoTilerPreviewView.h */;
+		name = "AutoTilerPreviewView.h: 17";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	AFC82B7B133129F9006E8FCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AutoTilerAppDelegate.h */;
+		name = "AutoTilerAppDelegate.h: 30";
+		rLen = 34;
+		rLoc = 620;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	AFC82BC6133135CB006E8FCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AutoTilerAppDelegate.m */;
+		name = "AutoTilerAppDelegate.m: 64";
+		rLen = 0;
+		rLoc = 2134;
+		rType = 0;
+		vrLen = 1510;
+		vrLoc = 1100;
+	};
+	AFC82BD913313658006E8FCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected statement before ')' token";
+		fRef = AFC82AF613311C25006E8FCC /* AutoTilerPreviewView.m */;
+		rLen = 0;
+		rLoc = 24;
+		rType = 1;
+	};
+	AFC82BE5133149BB006E8FCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AFC82AF613311C25006E8FCC /* AutoTilerPreviewView.m */;
+		name = "AutoTilerPreviewView.m: 25";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 363;
+	};
+}
